@@ -1,8 +1,5 @@
 yarn add gh-pages
-  "scripts": {
-    "predeploy": "npm run build",
--   "deploy": "gh-pages -d build",
-+   "deploy": "gh-pages -b master -d build",
+
 "homepage": "https://mratactaquin.github.io/reactappdls",
 {
   "name": "openbook",
