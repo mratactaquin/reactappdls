@@ -1,5 +1,4 @@
-yarn add gh-pages
-
+npm install --save gh-pages
 "homepage": "https://mratactaquin.github.io/reactappdls",
 {
   "name": "openbook",
