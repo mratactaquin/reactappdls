@@ -1,4 +1,8 @@
-
+  "scripts": {
++   "predeploy": "npm run build",
++   "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
 "homepage": "https://mratactaquin.github.io/reactappdls",
 {
   "name": "openbook",
